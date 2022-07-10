@@ -21,7 +21,7 @@
   ### Meu projeto mais recente em Swift ⏱:
   
   ````link
-  https://github.com/rodrigovart/TinderClone
+  https://github.com/rodrigovart/RickAndMortyGame
   ````
   
   #
